@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>OpenVM</string>
+    <key>CFBundleDisplayName</key>
+    <string>OpenVM</string>
+    <key>CFBundleIdentifier</key>
+    <string>io.github.deystr0.openvm</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIconName</key>
+    <string>AppIcon</string>
+    <key>CFBundleExecutable</key>
+    <string>OpenVM</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.developer-tools</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2026 OpenVM contributors. Licensed under the GNU General Public License v3.0 or later.</string>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
+    <key>LSMinimumSystemVersion</key>
+    <string>15.0</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>OpenVM can pass the Mac's microphone to a virtual machine when you enable it in the VM's settings.</string>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>OpenVM forwards ports from this Mac to your virtual machines, which live on a private local network.</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+</dict>
+</plist>

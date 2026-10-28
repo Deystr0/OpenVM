@@ -1,0 +1,14 @@
+{
+  "fill": "none",
+  "groups": [
+    {
+      "layers": [
+        { "image-name": "OpenVM.png", "name": "OpenVM", "glass": false, "opacity": 1, "blend-mode": "normal" }
+      ],
+      "shadow": { "kind": "none", "opacity": 0 },
+      "translucency": { "enabled": false, "value": 0 },
+      "specular": false
+    }
+  ],
+  "supported-platforms": { "squares": "shared" }
+}
